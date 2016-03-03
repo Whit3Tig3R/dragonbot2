@@ -254,73 +254,73 @@ channel : @Nod32team
 sodu : @behrooZyaghi
 ]],
     help_text_realm = [[
-Realm Commands:
+دستورات ریلم دراگون بات:
 
 !creategroup [Name]
-Create a group
+ساخت گروه
 
 !createrealm [Name]
-Create a realm
+ساخت ریلم
 
 !setname [Name]
-Set realm name
+تنظیم اسم ریلم
 
 !setabout [GroupID] [Text]
-Set a group's about text
+تنظیم درباره گروه دیگر
 
 !setrules [GroupID] [Text]
-Set a group's rules
+تنظیم قوانین گروه دیگر
 
 !lock [GroupID] [setting]
-Lock a group's setting
+قفل کردن تنظیمات گروه دیگر
 
 !unlock [GroupID] [setting]
-Unock a group's setting
+باز کردن تنظیمات گروه دیگر
 
 !wholist
-Get a list of members in group/realm
+دیدن لیست افراد گروه
 
 !who
-Get a file of members in group/realm
+گرفتن فایل افراد گروه
 
 !type
-Get group type
+گرفتن تایپ
 
 !kill chat [GroupID]
-Kick all memebers and delete group
+پاک کردن گروه دیگر با ایدی گروه
 
 !kill realm [RealmID]
-Kick all members and delete realm
+پاک کردن ریلم  با ایدی
 
 !addadmin [id|username]
-Promote an admin by id OR username *Sudo only
+اضافه کردن ادمین
 
 !removeadmin [id|username]
-Demote an admin by id OR username *Sudo only
+ریمو کردن ادمین
 
 !list groups
-Get a list of all groups
+لیست گروه ها
 
 !list realms
-Get a list of all realms
+لیست ریلم ها
 
 !log
-Grt a logfile of current group or realm
+گرفتن لاگ
 
 !broadcast [text]
 !broadcast Hello !
-Send text to all groups
-Only sudo users can run this command
+ارسال متنی به همه گروه ها
+این دستور فقط مال ادمین هست
 
 !bc [group_id] [text]
 !bc 123456789 Hello !
-This command will send text to [group_id]
+ارسال متنی فقط به یک گروه
 
-ch: @Nod32team
+ch: @drag0nb0t
 
 ]],
     help_text = [[
-NOD32 Commands list :
+DraGoN BoT Commands list :
  
 1-banhammer list ^
  
@@ -517,7 +517,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @drag0nb0t
 
 G00D LUCK ^_^
 ]]
